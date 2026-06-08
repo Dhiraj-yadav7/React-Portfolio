@@ -1,14 +1,97 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built using **React.js**, **Vite**, and **Tailwind CSS**. This portfolio showcases my skills, projects, education, and contact information with an attractive user interface and smooth user experience.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Responsive Design
+* Modern UI/UX
+* Interactive Hero Section
+* Skills Showcase
+* Education Timeline
+* Project Showcase
+* Contact Form Integration
+* Smooth Navigation
+* Mobile Friendly
 
-## React Compiler
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* JavaScript
+* Tailwind CSS
+* HTML5
+* CSS3
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Vercel
+
+## 📂 Projects Included
+
+### Personal Portfolio
+
+A modern portfolio website showcasing my skills, education, and projects.
+
+### Rock Paper Scissors Game
+
+An interactive browser-based game developed using HTML, CSS, and JavaScript.
+
+### Tic Tac Toe Game
+
+A responsive Tic Tac Toe game featuring winner detection and game reset functionality.
+
+### Invertis Fitness Landing Page
+
+A responsive fitness landing page focused on modern UI design and user engagement.
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Dhiraj-yadav7/React-Portfolio.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd React-Portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## 📧 Contact
+
+**Dhiraj Yadav**
+
+* GitHub: https://github.com/Dhiraj-yadav7
+* LinkedIn: Add Your LinkedIn Profile
+* Email: Add Your Email Address
+
+## ⭐ Show Your Support
+
+If you like this project, please give it a star on GitHub.
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 

@@ -18,6 +18,7 @@ import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import mcLogo from './assets/tech_logo/mc.png';
 
+
 // Experience Section Logo's
 import android from './assets/company_logo/android.png';
 import java from './assets/company_logo/java.png';
@@ -27,6 +28,7 @@ import inv from './assets/education_logo/inv.png';
 import nss from './assets/education_logo/nss.png';
 
 // Project Section Logo's
+import virtuallogo from './assets/work_logo/virtualAssistant.png';
 import portfolioLogo from "./assets/work_logo/portfolio.png";
 import rpsLogo from "./assets/work_logo/rps.png";
 import tttLogo from "./assets/work_logo/ttt.png";
@@ -144,30 +146,43 @@ export const SkillsInfo = [
 ];
   
   export const projects = [
-  {
+
+    {
     id: 0,
+    title: "Virtual Assistant ",
+    description:
+      "A full-stack AI Virtual Assistant developed using React, Node.js, Express, MongoDB, and Gemini AI with voice recognition, speech synthesis, authentication, and customizable assistant features.",
+    image: virtuallogo,
+    tags: ["React JS", "Tailwind CSS", "JavaScript", "Node JS", "Express JS", "MongoDB", "Gemini AI","axios","cloudinary","Mongoose","mongodb atlas","react-router-dom" ,"react-icons"],
+    github: "https://github.com/Dhiraj-yadav7/Virtual-Assistant",
+    webapp: "https://virtual-assistant-pcvg.onrender.com",
+  },
+  {
+    id: 1,
     title: "Personal Portfolio",
     description:
       "A modern and responsive portfolio website built using React.js and Tailwind CSS. It showcases my skills, projects, education, and contact information with a clean and attractive user interface.",
     image: portfolioLogo,
     tags: ["React JS", "Tailwind CSS", "JavaScript"],
-    github: "https://github.com/Dhiraj-yadav7",
-    webapp: "",
+    github: "https://github.com/Dhiraj-yadav7/React-Portfolio",
+    webapp: "https://dhiraj-portfolio-beta.vercel.app/",
   },
 
+
+
   {
-    id: 1,
+    id: 2,
     title: "Rock Paper Scissors Game",
     description:
       "An interactive browser-based game developed using HTML, CSS, and JavaScript. Users can play against the computer with real-time score tracking and responsive gameplay.",
     image: rpsLogo,
     tags: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/Dhiraj-yadav7/ROCK-PAPER-SCISSOR-GAME-",
-    webapp: "",
+    webapp: ""
   },
 
   {
-    id: 2,
+    id: 3,
     title: "Tic Tac Toe Game",
     description:
       "A responsive Tic Tac Toe game built using HTML, CSS, and JavaScript. It features winner detection, game reset functionality, and an intuitive user interface.",
@@ -178,7 +193,7 @@ export const SkillsInfo = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "Invertis Fitness Landing Page",
     description:
       "A modern and responsive fitness landing page designed to promote fitness services and programs. Built with a focus on clean UI design, responsiveness, and user engagement.",

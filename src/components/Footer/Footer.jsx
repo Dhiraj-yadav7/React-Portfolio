@@ -40,7 +40,7 @@ const Footer = () => {
           {[
             { icon: <FaFacebook />, link: "https://www.facebook.com/dhiraj.yadav.484111" },
             { icon: <FaTwitter />, link: "https://x.com/DhirajYada63784" },
-            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/dhiraj-yadav-b5b4b8292" },
+            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/dhiraj-yadav-cse" },
             { icon: <FaInstagram />, link: "https://www.instagram.com/dhiraj_yadav_7280/" },
             { icon: <FaYoutube />, link: "https://youtube.com/@dhirajyadav453?si=OmFXaUjiMKzPQOA6" },
             

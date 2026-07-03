@@ -42,11 +42,11 @@ const About = () => {
   />
 </h3>
  <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-           I'm , a passionate Computer Science Engineering student and aspiring Full Stack Developer. I enjoy building modern, responsive, and user-friendly web applications using technologies like HTML, CSS, JavaScript, React, Node.js, Express js, Java ,and MongoDB.I am constantly learning new technologies and improving my problem-solving skills.
+           I'm Dhiraj Yadav, a passionate Computer Science Engineering student and aspiring Full Stack Developer. I enjoy building modern, responsive, and user-friendly web applications using technologies like HTML, CSS, JavaScript, React, Node.js, Express js, Java ,and MongoDB.I am constantly learning new technologies and improving my problem-solving skills.
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1ZYBO5qkCbWnov4gu3AYpSxfE0gHFxVAJ/view?usp=sharing"
+            href="https://drive.google.com/file/d/1pO0jwVzVoBqt3tVf_icrehsPraz5vbfW/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"

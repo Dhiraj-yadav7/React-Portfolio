@@ -19,6 +19,7 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 import mcLogo from './assets/tech_logo/mc.png';
 
 
+
 // Experience Section Logo's
 import android from './assets/company_logo/android.png';
 import java from './assets/company_logo/java.png';
@@ -33,6 +34,7 @@ import portfolioLogo from "./assets/work_logo/portfolio.png";
 import rpsLogo from "./assets/work_logo/rps.png";
 import tttLogo from "./assets/work_logo/ttt.png";
 import fitnessLogo from "./assets/work_logo/fitness.png";
+import wishcraftlogo from "./assets/work_logo/wishcraft.png" 
 
 export const SkillsInfo = [
   {
@@ -157,6 +159,33 @@ export const SkillsInfo = [
     github: "https://github.com/Dhiraj-yadav7/Virtual-Assistant",
     webapp: "https://virtual-assistant-pcvg.onrender.com",
   },
+  {
+    id: 5,
+    title: "WishCraft ",
+    description:
+      "Hi, I'm Dhiraj Yadav, and this is WishCraft, a Full Stack MERN SaaS application built using Vibe Coding. It helps users create and share personalized digital birthday surprise experiences with modern interactive features.",
+    image: wishcraftlogo,
+    tags: [
+  "HTML5",
+  "CSS3",
+  "JavaScript",
+  "Node.js",
+  "Express.js",
+  "MongoDB",
+  "Mongoose",
+  "MongoDB Atlas",
+  "JWT Authentication",
+  "Cloudinary",
+  "Google Gemini AI",
+  "Axios",
+  "Vercel",
+  "PWA",
+  "Responsive Design"
+],
+    github: "https://github.com/Dhiraj-yadav7/wishcraft",
+    webapp: "https://birthday-bice-eta.vercel.app/",
+   },
+
   {
     id: 1,
     title: "Personal Portfolio",

@@ -192,7 +192,7 @@ export const SkillsInfo = [
     description:
       "A modern and responsive portfolio website built using React.js and Tailwind CSS. It showcases my skills, projects, education, and contact information with a clean and attractive user interface.",
     image: portfolioLogo,
-    tags: ["React JS", "Tailwind CSS", "JavaScript"],
+    tags: ["React.js", " Vite ", "Tailwind CSS ", "Framer Motion", "React Router DOM",  "React Icons", " javascript",  "Git ","GitHub", "Vercel"],
     github: "https://github.com/Dhiraj-yadav7/React-Portfolio",
     webapp: "https://dhiraj-portfolio-beta.vercel.app/",
   },
@@ -203,11 +203,11 @@ export const SkillsInfo = [
     id: 2,
     title: "Rock Paper Scissors Game",
     description:
-      "An interactive browser-based game developed using HTML, CSS, and JavaScript. Users can play against the computer with real-time score tracking and responsive gameplay.",
+      "A modern Rock Paper Scissors game built with React, Vite, and Tailwind CSS, featuring multiple game modes, difficulty levels, achievements, statistics, history tracking, responsive design, and smooth animations.",
     image: rpsLogo,
-    tags: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/Dhiraj-yadav7/ROCK-PAPER-SCISSOR-GAME-",
-    webapp: ""
+    tags: ["React.js", " Vite ", "Tailwind CSS ", "Framer Motion", "React Router DOM",  "React Icons", " javascript",  "Git ","GitHub", "Vercel"],
+    github: "https://github.com/Dhiraj-yadav7/rock-paper-scissor",
+    webapp: "https://rock-paper-scissor-one-murex.vercel.app/"
   },
 
   {
